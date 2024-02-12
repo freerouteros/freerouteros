@@ -2,7 +2,7 @@ iptables
 isc-dhcp-server
 suricata
 #routing
-quagga
+##quagga
 #tools
 nano
 #webpanel
