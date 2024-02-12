@@ -1,4 +1,9 @@
 iptables
 isc-dhcp-server
 suricata
+#routing
+quagga
+#tools
 nano
+#webpanel
+nginx
