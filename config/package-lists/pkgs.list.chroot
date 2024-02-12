@@ -4,6 +4,6 @@ suricata
 #routing
 ##quagga
 #tools
-nano
+##nano
 #webpanel
 nginx
